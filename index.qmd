@@ -1,0 +1,17 @@
+---
+title: "Welcome!"
+---
+
+<font size = "5">
+
+Please enjoy exploring my portfolio to learn more about my person and to see a selection of my previous work and projects.
+
+## You can contact me here:
+
+- [![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=gmail&logoColor=white)](mailto:landesvatterc@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camille-landesvatter/)
+- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/clandesv)
+- [![X](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://x.com/c_landesvatter)
+
+</font size>
+
