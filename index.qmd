@@ -4,14 +4,27 @@ title: "Welcome!"
 
 <font size = "5">
 
+👩🏽‍💻 For the last 3.5 years I have been working as a Quantitative Researcher at the [Mannheim Centre for European Social Research (MZES)](https://www.mzes.uni-mannheim.de/d7/en) at the University of Mannheim.
+
+🏫 I studied Social Sciences and Sociology at the University of Stuttgart and Mannheim. I chose my courses, coursework and thesis within the intersection of survey research, statistics and data science. 
+
+🎓 In April 2024 I earned my PhD in Quantitative Sociology at the Department for Social Data Science and Methodology (UMA). 
+  - Thesis Title: "Methods for the Classification of Data from Open-Ended Questions in Surveys"
+  - GPA: 1.5 (Magna Cum Laude)
+  - 🌰 My PhD in a Nutshell (Disputation Talk): [Methods for the Classification of Data from Open-Ended Questions in Surveys](https://clandesv.github.io/text_classifiers_survey_data/slides.html#/title-slide)
+
+📍 I currently live in Berlin, Germany and soon want to explore another European country.
+
+🔎 I am currently exploring opportunities in Data Analysis and Data Science for my next professional chapter.
+
 Please enjoy exploring my portfolio to learn more about my person and to see a selection of my previous work and projects.
 
 ## You can contact me here:
 
-- [![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=gmail&logoColor=white)](mailto:landesvatterc@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camille-landesvatter/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/clandesv)
-- [![X](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://x.com/c_landesvatter)
+[![Email](https://img.shields.io/badge/-Email-d14836?style=flat&logo=gmail&logoColor=white)](mailto:landesvatterc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camille-landesvatter/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/clandesv)
+[![X](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://x.com/c_landesvatter)
 
 </font size>
 

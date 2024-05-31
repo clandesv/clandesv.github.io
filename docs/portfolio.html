@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Camille Landesvatter | Quantitative Researcher - Welcome!</title>
+<title>Camille Landesvatter | Quantitative Researcher - Portfolio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -89,11 +89,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./portfolio.html"> 
+    <a class="nav-link active" href="./portfolio.html" aria-current="page"> 
 <span class="menu-text">Portfolio</span></a>
   </li>  
 </ul>
@@ -113,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome!</h1>
+<h1 class="title">Portfolio</h1>
 </div>
 
 
@@ -130,17 +130,192 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><font size="5"></font></p><font size="5">
-<p>👩🏽‍💻 For the last 3.5 years I have been working as a Quantitative Researcher at the <a href="https://www.mzes.uni-mannheim.de/d7/en">Mannheim Centre for European Social Research (MZES)</a> at the University of Mannheim.</p>
-<p>🏫 I studied Social Sciences and Sociology at the University of Stuttgart and Mannheim. I chose my courses, coursework and thesis within the intersection of survey research, statistics and data science.</p>
-<p>🎓 In April 2024 I earned my PhD in Quantitative Sociology at the Department for Social Data Science and Methodology (UMA). - Thesis Title: “Methods for the Classification of Data from Open-Ended Questions in Surveys” - GPA: 1.5 (Magna Cum Laude) - 🌰 My PhD in a Nutshell (Disputation Talk): <a href="https://clandesv.github.io/text_classifiers_survey_data/slides.html#/title-slide">Methods for the Classification of Data from Open-Ended Questions in Surveys</a></p>
-<p>📍 I currently live in Berlin, Germany and soon want to explore another European country.</p>
-<p>🔎 I am currently exploring opportunities in Data Analysis and Data Science for my next professional chapter.</p>
-<p>Please enjoy exploring my portfolio to learn more about my person and to see a selection of my previous work and projects.</p>
-</font><section id="you-can-contact-me-here" class="level2"><font size="5">
-<h2 class="anchored" data-anchor-id="you-can-contact-me-here">You can contact me here:</h2>
-<p><a href="mailto:landesvatterc@gmail.com"><img src="https://img.shields.io/badge/-Email-d14836?style=flat&amp;logo=gmail&amp;logoColor=white.png" class="img-fluid" alt="Email"></a> <a href="https://www.linkedin.com/in/camille-landesvatter/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=linkedin.png" class="img-fluid" alt="LinkedIn"></a> <a href="https://github.com/clandesv"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&amp;logo=github.png" class="img-fluid" alt="GitHub"></a> <a href="https://x.com/c_landesvatter"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&amp;logo=twitter.png" class="img-fluid" alt="X"></a></p>
-</font><p><font size="5"></font></p>
+<p>In my previous work and projects, I’ve applied statistical analysis methods, ranging from descriptive techniques to advanced methodologies. One of my focus in advanced methods is Natural Language Processing, where I use methods of machine learning and deep learning techniques to generate knowledge about textual data.</p>
+<p>In terms of machine learning, I mostly enjoy and appreciate supervised machine learning (<a href="https://www.youtube.com/watch?v=5p248yoa3oE&amp;list=LL&amp;index=2">Andrew Ng’s explantion on why these architectures are the most useful</a>), I have also worked in projects successfully utilizing unsupervised techniques (e.g., topic modeling) and large language models (e.g., zero-shot prompting with GPT-3.5).</p>
+<section id="entropy-analysis" class="level1">
+<h1>Entropy analysis</h1>
+<ul>
+<li>Summary: Questionnaires sometimes include open-ended questions (and if we had better access to methods for analyzing their open-ended responses, we would see them even more often). In this project, I investigated whether open-ended answers are useful in terms of their information content. This research required me to define and to operationalize information content (i.e., the amount of information given in an answer). Among various measures, I proposed the use of a measure from information theory, the <a href="https://en.wikipedia.org/wiki/Entropy">entropy</a> of a response. The below figure is my visualization for exemplary survey answers alongside their entropy score.</li>
+</ul>
+<div style="text-align: center;">
+<figure class="figure">
+<p><img src="project-figures/entropy-plot.png" width="750" height="350" class="figure-img"></p>
+<figcaption>
+Figure 1: Example Survey Answers by Entropy.<br><em>Note.</em> The topic ofthis questionnaire item concerned environmental issues.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="topic-model-analysis" class="level1">
+<h1>Topic Model Analysis</h1>
+<ul>
+<li>Summary: Topic Modeling is a widely famous and often used method from unspervised Machine Learning aimin at exploring given topics in a corpus. Throughout my work, I have used topic models at various instances, most often for the usecase of exploring and learning about new, unstructured datasets. I follow the devlopment of topic models since many years, andused various of them (e.g., LDA, BERTopic), but just recently I started working on identifying topics with the help of a Large Language Model. In particular, I use GPT-3.5-turbo and prompt it too identify, label and describe topics in a given corpus. I don’t provide any examples of topics, hence this is also called zero-shot prompting.</li>
+</ul>
+<p>The below dataset shows the main topics alongside des</p>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+    .tg {
+      border-collapse: collapse;
+      border-spacing: 0;
+      width: 100%;
+      font-family: 'Roboto', sans-serif;
+    }
+    .tg td, .tg th {
+      border: 1px solid black;
+      padding: 10px 5px;
+      word-break: normal;
+      text-align: left;
+      vertical-align: top;
+      font-size: 14px;
+    }
+    .tg th {
+      font-weight: bold;
+    }
+    .tg tr:nth-child(1) {
+      background-color: #f9eae1;
+    }
+    .tg tr:nth-child(2) {
+      background-color: #e8f1f2;
+    }
+    .tg tr:nth-child(3) {
+      background-color: #f2e1f9;
+    }
+    .tg tr:nth-child(4) {
+      background-color: #e1f2e8;
+    }
+    .tg tr:nth-child(5) {
+      background-color: #e1eaf9;
+    }
+    .tg tr:nth-child(6) {
+      background-color: #f9f2e1;
+    }
+    .tg tr:nth-child(7) {
+      background-color: #e1f2f1;
+    }
+    .tg tr:nth-child(8) {
+      background-color: #e1f2f3;
+    }
+  </style>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet">
+
+
+<table class="tg">
+<thead>
+<tr>
+<th class="tg-0lax">
+Topic Name
+</th>
+<th class="tg-0lax">
+Topic description
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tg-0lax">
+Climate Change Denial
+</td>
+<td class="tg-0lax">
+Some respondents express skepticism about human-caused climate change and the ability of humans to make a significant impact on the environment.
+</td>
+</tr>
+<tr>
+<td class="tg-0lax">
+Global Leadership
+</td>
+<td class="tg-0lax">
+Concerns about the lack of leadership and cooperation among world leaders in addressing climate change.
+</td>
+</tr>
+<tr>
+<td class="tg-0lax">
+Pollution and Emissions
+</td>
+<td class="tg-0lax">
+References to major polluting countries like China and India, as well as the normalization of pollution.
+</td>
+</tr>
+<tr>
+<td class="tg-0lax">
+Inequality and Suspicion
+</td>
+<td class="tg-0lax">
+Mentions of inequality among nations and suspicion of other countries’ actions.
+</td>
+</tr>
+<tr>
+<td class="tg-0lax">
+Capitalism and Profit Motive
+</td>
+<td class="tg-0lax">
+Doubts about countries prioritizing profit over environmental safety under capitalism.
+</td>
+</tr>
+<tr>
+<td class="tg-0lax">
+International Efforts
+</td>
+<td class="tg-0lax">
+Comments on international agreements like the Paris Agreement and the need for global cooperation.
+</td>
+</tr>
+<tr>
+<td class="tg-0lax">
+Lack of Information
+</td>
+<td class="tg-0lax">
+Acknowledgment of insufficient information to form a confident opinion on climate change actions.
+</td>
+</tr>
+</tbody>
+</table>
+
+</section>
+<section id="automatic-speech-recognition" class="level1">
+<h1>Automatic Speech Recognition</h1>
+<ul>
+<li>Summary: Spoken language provides analysts and researchers with very dense and rich amounts of information. For example speech, in contrast to written language, can deliver additional information through characteristics such as speed, intonation and volume, as well as other non-verbal elements, such as laughter, pauses and sighs. This led me to collect voice answers in various of my survey projects and for one of my <a href="">white papers</a> I compared different algorithms for automatic speech recognition. In this comparison I find that whisper, a speech-to-text algorithm provided by openAI performs best in terms of word error rates.</li>
+</ul>
+<div style="text-align: center;">
+<figure class="figure">
+<p><img src="project-figures/audio-data.png" width="650" height="450" class="figure-img"></p>
+<figcaption>
+Figure 2: Waveform of an exemplary audio file and the unit of analyis.
+</figcaption>
+</figure>
+</div>
+<div style="text-align: center;">
+<figure class="figure">
+<p><img src="project-figures/word-error-rates.png" width="750" height="350" class="figure-img"></p>
+<figcaption>
+Figure 3: Word Error Rates across different ASR algorithms.
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="fine-tuning-of-a-bert-model-to-assign-open-ended-survey-answers-to-pre-defined-categories" class="level1">
+<h1>Fine-tuning of a BERT model to assign open-ended survey answers to pre-defined categories</h1>
+<ul>
+<li>Summary: The below shows results from one of my research projects in which I investigated various methods of supervised machine learning approaches to assign open-ended survey answers to pre-defined categories. For example, I was interested in detecting whether a certain survey answer is given in positive, negative or neutral sentiment.</li>
+</ul>
+<div style="text-align: center;">
+<figure class="figure">
+<p><img src="project-figures/sentiment-distribution.png" width="700" height="300" class="figure-img"></p>
+<figcaption>
+Figure 4: Sentiment classified with a fine-tuned BERT model for different survey items.
+</figcaption>
+</figure>
+</div>
+<div style="text-align: center;">
+<figure class="figure">
+<p><img src="project-figures/coefficient-plot-multi.png" width="700" height="700" class="figure-img"></p>
+<figcaption>
+Figure 5: Results from multivariate regression analysis.
+</figcaption>
+</figure>
+</div>
 
 
 </section>

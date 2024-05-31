@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Portfolio"
 ---
 
 In my previous work and projects, I've applied statistical analysis methods, ranging from descriptive techniques to advanced methodologies. One of my focus in advanced methods is Natural Language Processing, where I use methods of machine learning and deep learning techniques to generate knowledge about textual data.
