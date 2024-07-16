@@ -18,19 +18,19 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "In my previous work and projects, I’ve applied statistical analysis methods, ranging from descriptive techniques to advanced methodologies. One of my focus in advanced methods is Natural Language Processing, where I use methods of machine learning and deep learning techniques to generate knowledge about textual data.\nIn terms of machine learning, I mostly enjoy and appreciate supervised machine learning (Andrew Ng’s explantion on why these architectures are the most useful), I have also worked in projects successfully utilizing unsupervised techniques (e.g., topic modeling) and large language models (e.g., zero-shot prompting with GPT-3.5).\n\nEntropy analysis\n\nSummary: Questionnaires sometimes include open-ended questions (and if we had better access to methods for analyzing their open-ended responses, we would see them even more often). In this project, I investigated whether open-ended answers are useful in terms of their information content. This research required me to define and to operationalize information content (i.e., the amount of information given in an answer). Among various measures, I proposed the use of a measure from information theory, the entropy of a response. The below figure is my visualization for exemplary survey answers alongside their entropy score.\n\n\n\n\n\nFigure 1: Example Survey Answers by Entropy.Note. The topic ofthis questionnaire item concerned environmental issues.\n\n\n\n\n\nTopic Model Analysis\n\nSummary: Topic Modeling is a widely famous and often used method from unspervised Machine Learning aimin at exploring given topics in a corpus. Throughout my work, I have used topic models at various instances, most often for the usecase of exploring and learning about new, unstructured datasets. I follow the devlopment of topic models since many years, andused various of them (e.g., LDA, BERTopic), but just recently I started working on identifying topics with the help of a Large Language Model. In particular, I use GPT-3.5-turbo and prompt it too identify, label and describe topics in a given corpus. I don’t provide any examples of topics, hence this is also called zero-shot prompting.\n\nThe below dataset shows the main topics alongside des\n\n\n\n\n\n\n\n\n\n\n\nTopic Name\n\n\nTopic description\n\n\n\n\n\n\nClimate Change Denial\n\n\nSome respondents express skepticism about human-caused climate change and the ability of humans to make a significant impact on the environment.\n\n\n\n\nGlobal Leadership\n\n\nConcerns about the lack of leadership and cooperation among world leaders in addressing climate change.\n\n\n\n\nPollution and Emissions\n\n\nReferences to major polluting countries like China and India, as well as the normalization of pollution.\n\n\n\n\nInequality and Suspicion\n\n\nMentions of inequality among nations and suspicion of other countries’ actions.\n\n\n\n\nCapitalism and Profit Motive\n\n\nDoubts about countries prioritizing profit over environmental safety under capitalism.\n\n\n\n\nInternational Efforts\n\n\nComments on international agreements like the Paris Agreement and the need for global cooperation.\n\n\n\n\nLack of Information\n\n\nAcknowledgment of insufficient information to form a confident opinion on climate change actions.\n\n\n\n\n\n\n\nAutomatic Speech Recognition\n\nSummary: Spoken language provides analysts and researchers with very dense and rich amounts of information. For example speech, in contrast to written language, can deliver additional information through characteristics such as speed, intonation and volume, as well as other non-verbal elements, such as laughter, pauses and sighs. This led me to collect voice answers in various of my survey projects and for one of my white papers I compared different algorithms for automatic speech recognition. In this comparison I find that whisper, a speech-to-text algorithm provided by openAI performs best in terms of word error rates.\n\n\n\n\n\nFigure 2: Waveform of an exemplary audio file and the unit of analyis.\n\n\n\n\n\n\n\nFigure 3: Word Error Rates across different ASR algorithms.\n\n\n\n\n\nFine-tuning of a BERT model to assign open-ended survey answers to pre-defined categories\n\nSummary: The below shows results from one of my research projects in which I investigated various methods of supervised machine learning approaches to assign open-ended survey answers to pre-defined categories. For example, I was interested in detecting whether a certain survey answer is given in positive, negative or neutral sentiment.\n\n\n\n\n\nFigure 4: Sentiment classified with a fine-tuned BERT model for different survey items.\n\n\n\n\n\n\n\nFigure 5: Results from multivariate regression analysis."
+    "text": "GitHub"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "You can also get connected with me here:"
+    "text": "For my upcoming professional chapter, I am looking forward to explore opportunities in Data Analysis and Data Science. If you are interested in connecting, learning more about my work, or discussing potential collaborations, feel free to reach out!"
   },
   {
     "objectID": "index.html#you-can-contact-me-here",
     "href": "index.html#you-can-contact-me-here",
-    "title": "Welcome!",
+    "title": "About",
     "section": "You can contact me here:",
     "text": "You can contact me here:"
   },
@@ -39,6 +39,125 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "In my previous work and projects, I’ve applied statistical analysis methods, ranging from descriptive techniques to advanced methodologies. One of my focus in advanced methods is Natural Language Processing, where I use methods of machine learning and deep learning techniques to generate knowledge about textual data.\nIn terms of machine learning, I mostly enjoy and appreciate supervised machine learning (Andrew Ng’s explantion on why these architectures are the most useful), I have also worked in projects successfully utilizing unsupervised techniques (e.g., topic modeling) and large language models (e.g., zero-shot prompting with GPT-3.5).\n\nEntropy analysis\n\nSummary: Questionnaires sometimes include open-ended questions (and if we had better access to methods for analyzing their open-ended responses, we would see them even more often). In this project, I investigated whether open-ended answers are useful in terms of their information content. This research required me to define and to operationalize information content (i.e., the amount of information given in an answer). Among various measures, I proposed the use of a measure from information theory, the entropy of a response. The below figure is my visualization for exemplary survey answers alongside their entropy score.\n\n\n\n\n\nFigure 1: Example Survey Answers by Entropy.Note. The topic ofthis questionnaire item concerned environmental issues.\n\n\n\n\n\nTopic Model Analysis\n\nSummary: Topic Modeling is a widely famous and often used method from unspervised Machine Learning aimin at exploring given topics in a corpus. Throughout my work, I have used topic models at various instances, most often for the usecase of exploring and learning about new, unstructured datasets. I follow the devlopment of topic models since many years, andused various of them (e.g., LDA, BERTopic), but just recently I started working on identifying topics with the help of a Large Language Model. In particular, I use GPT-3.5-turbo and prompt it too identify, label and describe topics in a given corpus. I don’t provide any examples of topics, hence this is also called zero-shot prompting.\n\nThe below dataset shows the main topics alongside des\n\n\n\n\n\n\n\n\n\n\n\nTopic Name\n\n\nTopic description\n\n\n\n\n\n\nClimate Change Denial\n\n\nSome respondents express skepticism about human-caused climate change and the ability of humans to make a significant impact on the environment.\n\n\n\n\nGlobal Leadership\n\n\nConcerns about the lack of leadership and cooperation among world leaders in addressing climate change.\n\n\n\n\nPollution and Emissions\n\n\nReferences to major polluting countries like China and India, as well as the normalization of pollution.\n\n\n\n\nInequality and Suspicion\n\n\nMentions of inequality among nations and suspicion of other countries’ actions.\n\n\n\n\nCapitalism and Profit Motive\n\n\nDoubts about countries prioritizing profit over environmental safety under capitalism.\n\n\n\n\nInternational Efforts\n\n\nComments on international agreements like the Paris Agreement and the need for global cooperation.\n\n\n\n\nLack of Information\n\n\nAcknowledgment of insufficient information to form a confident opinion on climate change actions.\n\n\n\n\n\n\n\nAutomatic Speech Recognition\n\nSummary: Spoken language provides analysts and researchers with very dense and rich amounts of information. For example speech, in contrast to written language, can deliver additional information through characteristics such as speed, intonation and volume, as well as other non-verbal elements, such as laughter, pauses and sighs. This led me to collect voice answers in various of my survey projects and for one of my white papers I compared different algorithms for automatic speech recognition. In this comparison I find that whisper, a speech-to-text algorithm provided by openAI performs best in terms of word error rates.\n\n\n\n\n\nFigure 2: Waveform of an exemplary audio file and the unit of analyis.\n\n\n\n\n\n\n\nFigure 3: Word Error Rates across different ASR algorithms.\n\n\n\n\n\nFine-tuning of a BERT model to assign open-ended survey answers to pre-defined categories\n\nSummary: The below shows results from one of my research projects in which I investigated various methods of supervised machine learning approaches to assign open-ended survey answers to pre-defined categories. For example, I was interested in detecting whether a certain survey answer is given in positive, negative or neutral sentiment.\n\n\n\n\n\nFigure 4: Sentiment classified with a fine-tuned BERT model for different survey items.\n\n\n\n\n\n\n\nFigure 5: Results from multivariate regression analysis."
+    "text": "In my previous work and projects, I’ve applied statistical analysis methods, ranging from descriptive techniques to advanced methodologies. One of my focus in advanced methods is Natural Language Processing, where I use methods of machine learning and deep learning techniques to generate knowledge about textual data.\nIn terms of machine learning, I mostly enjoy and appreciate supervised machine learning (Andrew Ng’s explantion on why these architectures are the most useful), I have also worked in projects successfully utilizing unsupervised techniques (e.g., topic modeling) and large language models (e.g., zero-shot prompting with GPT-3.5)."
+  },
+  {
+    "objectID": "Ohne Titel.html",
+    "href": "Ohne Titel.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "In my previous work and projects, I’ve applied statistical analysis methods, ranging from descriptive techniques to advanced methodologies. One of my focus in advanced methods is Natural Language Processing, where I use methods of machine learning and deep learning techniques to generate knowledge about textual data.\nIn terms of machine learning, I mostly enjoy and appreciate supervised machine learning (Andrew Ng’s explantion on why these architectures are the most useful), I have also worked in projects successfully utilizing unsupervised techniques (e.g., topic modeling) and large language models (e.g., zero-shot prompting with GPT-3.5)."
+  },
+  {
+    "objectID": "Ohne Titel.html#panel-1",
+    "href": "Ohne Titel.html#panel-1",
+    "title": "Four Panel Data Visualization",
+    "section": "Panel 1",
+    "text": "Panel 1\n\nHeading 1\nSome text about the data visualization.\n\n# Insert your data visualization code here for Panel 1\n# Example using ggplot2\nlibrary(ggplot2)\n\nWarning: package 'ggplot2' was built under R version 4.2.3\n\nggplot(mtcars, aes(x = wt, y = mpg)) +\n  geom_point()\n\n\n\n\n\n\n\n# Insert your data visualization code here for Panel 2\n# Example using ggplot2\nlibrary(ggplot2)\nggplot(mtcars, aes(x = hp, y = mpg)) +\n  geom_point()"
+  },
+  {
+    "objectID": "portfolio.html#entropy-analysis",
+    "href": "portfolio.html#entropy-analysis",
+    "title": "Portfolio",
+    "section": "Entropy analysis",
+    "text": "Entropy analysis\n\nSummary\nQuestionnaires sometimes include open-ended questions (and if we had better access to methods for analyzing their open-ended responses, we would see them even more often). In this project, I investigated whether open-ended answers are useful in terms of their information content. This research required me to define and to operationalize information content (i.e., the amount of information given in an answer). Among various measures, I proposed the use of a measure from information theory, the entropy of a response. The below figure is my visualization for exemplary survey answers alongside their entropy score.\n\n\n\nFigure 1: Example Survey Answers by Entropy.Note. The topic ofthis questionnaire item concerned environmental issues."
+  },
+  {
+    "objectID": "portfolio.html#topic-model-analysis",
+    "href": "portfolio.html#topic-model-analysis",
+    "title": "Portfolio",
+    "section": "Topic Model Analysis",
+    "text": "Topic Model Analysis\n\nSummary\nTopic Modeling is a widely famous and often used method from unspervised Machine Learning aimin at exploring given topics in a corpus. Throughout my work, I have used topic models at various instances, most often for the usecase of exploring and learning about new, unstructured datasets. I follow the devlopment of topic models since many years, andused various of them (e.g., LDA, BERTopic), but just recently I started working on identifying topics with the help of a Large Language Model. In particular, I use GPT-3.5-turbo and prompt it too identify, label and describe topics in a given corpus. I don’t provide any examples of topics, hence this is also called zero-shot prompting.\nThe below dataset shows the main topics alongside des\n\n\n\n\n\n\n\n\n\n\n\nTopic Name\n\n\nTopic description\n\n\n\n\n\n\nClimate Change Denial\n\n\nSome respondents express skepticism about human-caused climate change and the ability of humans to make a significant impact on the environment.\n\n\n\n\nGlobal Leadership\n\n\nConcerns about the lack of leadership and cooperation among world leaders in addressing climate change.\n\n\n\n\nPollution and Emissions\n\n\nReferences to major polluting countries like China and India, as well as the normalization of pollution.\n\n\n\n\nInequality and Suspicion\n\n\nMentions of inequality among nations and suspicion of other countries’ actions.\n\n\n\n\nCapitalism and Profit Motive\n\n\nDoubts about countries prioritizing profit over environmental safety under capitalism.\n\n\n\n\nInternational Efforts\n\n\nComments on international agreements like the Paris Agreement and the need for global cooperation.\n\n\n\n\nLack of Information\n\n\nAcknowledgment of insufficient information to form a confident opinion on climate change actions."
+  },
+  {
+    "objectID": "portfolio.html#automatic-speech-recognition",
+    "href": "portfolio.html#automatic-speech-recognition",
+    "title": "Portfolio",
+    "section": "Automatic Speech Recognition",
+    "text": "Automatic Speech Recognition\n\nSummary\nSpoken language provides analysts and researchers with very dense and rich amounts of information. For example speech, in contrast to written language, can deliver additional information through characteristics such as speed, intonation and volume, as well as other non-verbal elements, such as laughter, pauses and sighs. This led me to collect voice answers in various of my survey projects and for one of my white papers I compared different algorithms for automatic speech recognition. In this comparison I find that whisper, a speech-to-text algorithm provided by openAI performs best in terms of word error rates.\n\n\n\nFigure 2: Waveform of an exemplary audio file and the unit of analyis.\n\n\n\n\n\nFigure 3: Word Error Rates across different ASR algorithms."
+  },
+  {
+    "objectID": "portfolio.html#fine-tuning-of-a-bert-model-to-assign-open-ended-survey-answers-to-pre-defined-categories",
+    "href": "portfolio.html#fine-tuning-of-a-bert-model-to-assign-open-ended-survey-answers-to-pre-defined-categories",
+    "title": "Portfolio",
+    "section": "Fine-tuning of a BERT model to assign open-ended survey answers to pre-defined categories",
+    "text": "Fine-tuning of a BERT model to assign open-ended survey answers to pre-defined categories\n\nSummary\nThe below shows results from one of my research projects in which I investigated various methods of supervised machine learning approaches to assign open-ended survey answers to pre-defined categories. For example, I was interested in detecting whether a certain survey answer is given in positive, negative or neutral sentiment.\n\n\n\nFigure 4: Sentiment classified with a fine-tuned BERT model for different survey items.\n\n\n\n\n\nFigure 5: Results from multivariate regression analysis."
+  },
+  {
+    "objectID": "Ohne Titel.html#entropy-analysis",
+    "href": "Ohne Titel.html#entropy-analysis",
+    "title": "Portfolio",
+    "section": "Entropy Analysis",
+    "text": "Entropy Analysis\n\nSummary\nQuestionnaires sometimes include open-ended questions (and if we had better access to methods for analyzing their open-ended responses, we would see them even more often). In this project, I investigated whether open-ended answers are useful in terms of their information content. This research required me to define and to operationalize information content (i.e., the amount of information given in an answer). Among various measures, I proposed the use of a measure from information theory, the entropy of a response. The below figure is my visualization for exemplary survey answers alongside their entropy score.\n\n\n\nFigure 1: Example Survey Answers by Entropy.Note. The topic ofthis questionnaire item concerned environmental issues."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\n👩🏽‍💻 For the last 4 years I have been working as a Quantitative Researcher at the Mannheim Centre for European Social Research (MZES) at the University of Mannheim. Previously I was a Visiting Researcher at the Berlin Social Science Center, a Research Assistant at the GESIS Leibniz Institute for the Social Sciences, and a Intern as well as Student Research Assistant at the Fraunhofer Institute for Industrial Engineering.\n\nFor a detailed overview of previous activities, please find my full CV here."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n🏫🎓 I am trained in social sciences and in particular at the intersection of social science survey research, statistics and data science. To achieve this interdisciplinary combination of skills, I studied Social Sciences and Sociology at the University of Stuttgart and Mannheim. Subsequently, in April 2024 I completed my doctorate in Quantitative Sociology at the Department for Social Data Science and Methodology at the University of Mannheim.\n🌰 For those interested, please feel free to explore the slides of my disputation talk here."
+  },
+  {
+    "objectID": "work-samples.html",
+    "href": "work-samples.html",
+    "title": "Work samples",
+    "section": "",
+    "text": "In my previous work and projects, I’ve applied statistical analysis methods, ranging from descriptive techniques to advanced methodologies. One of my focus in advanced methods is Natural Language Processing, where I use methods of machine learning and deep learning techniques to generate knowledge about textual data.\nIn terms of machine learning, I mostly enjoy and appreciate supervised machine learning (Andrew Ng’s explantion on why these architectures are the most useful), I have also worked in projects successfully utilizing unsupervised techniques (e.g., topic modeling) and large language models (e.g., zero-shot prompting with GPT-3.5)."
+  },
+  {
+    "objectID": "work-samples.html#entropy-analysis",
+    "href": "work-samples.html#entropy-analysis",
+    "title": "Work samples",
+    "section": "Entropy analysis",
+    "text": "Entropy analysis\n\nSummary\nQuestionnaires sometimes include open-ended questions (and if we had better access to methods for analyzing their open-ended responses, we would see them even more often). In this project, I investigated whether open-ended answers are useful in terms of their information content. This research required me to define and to operationalize information content (i.e., the amount of information given in an answer). Among various measures, I proposed the use of a measure from information theory, the entropy of a response. The below figure is my visualization for exemplary survey answers alongside their entropy score.\n\n\n\nFigure 1: Example Survey Answers by Entropy.Note. The topic ofthis questionnaire item concerned environmental issues."
+  },
+  {
+    "objectID": "work-samples.html#topic-model-analysis",
+    "href": "work-samples.html#topic-model-analysis",
+    "title": "Work samples",
+    "section": "Topic Model Analysis",
+    "text": "Topic Model Analysis\n\nSummary\nTopic Modeling is a widely famous and often used method from unspervised Machine Learning aimin at exploring given topics in a corpus. Throughout my work, I have used topic models at various instances, most often for the usecase of exploring and learning about new, unstructured datasets. I follow the devlopment of topic models since many years, andused various of them (e.g., LDA, BERTopic), but just recently I started working on identifying topics with the help of a Large Language Model. In particular, I use GPT-3.5-turbo and prompt it too identify, label and describe topics in a given corpus. I don’t provide any examples of topics, hence this is also called zero-shot prompting.\nThe below dataset shows the main topics alongside descriptions.\n\n\n\n\n\n\n\n\n\n\n\nTopic Name\n\n\nTopic description\n\n\n\n\n\n\nClimate Change Denial\n\n\nSome respondents express skepticism about human-caused climate change and the ability of humans to make a significant impact on the environment.\n\n\n\n\nGlobal Leadership\n\n\nConcerns about the lack of leadership and cooperation among world leaders in addressing climate change.\n\n\n\n\nPollution and Emissions\n\n\nReferences to major polluting countries like China and India, as well as the normalization of pollution.\n\n\n\n\nInequality and Suspicion\n\n\nMentions of inequality among nations and suspicion of other countries’ actions.\n\n\n\n\nCapitalism and Profit Motive\n\n\nDoubts about countries prioritizing profit over environmental safety under capitalism.\n\n\n\n\nInternational Efforts\n\n\nComments on international agreements like the Paris Agreement and the need for global cooperation.\n\n\n\n\nLack of Information\n\n\nAcknowledgment of insufficient information to form a confident opinion on climate change actions."
+  },
+  {
+    "objectID": "work-samples.html#automatic-speech-recognition",
+    "href": "work-samples.html#automatic-speech-recognition",
+    "title": "Work samples",
+    "section": "Automatic Speech Recognition",
+    "text": "Automatic Speech Recognition\n\nSummary\nSpoken language provides analysts and researchers with very dense and rich amounts of information. For example speech, in contrast to written language, can deliver additional information through characteristics such as speed, intonation and volume, as well as other non-verbal elements, such as laughter, pauses and sighs. This led me to collect voice answers in various of my survey projects and for one of my white papers I compared different algorithms for automatic speech recognition. In this comparison I find that whisper, a speech-to-text algorithm provided by openAI performs best in terms of word error rates.\n\n\n\nFigure 2: Waveform of an exemplary audio file and the unit of analyis.\n\n\n\n\n\nFigure 3: Word Error Rates across different ASR algorithms."
+  },
+  {
+    "objectID": "work-samples.html#fine-tuning-of-a-bert-model-to-assign-open-ended-survey-answers-to-pre-defined-categories",
+    "href": "work-samples.html#fine-tuning-of-a-bert-model-to-assign-open-ended-survey-answers-to-pre-defined-categories",
+    "title": "Work samples",
+    "section": "Fine-tuning of a BERT model to assign open-ended survey answers to pre-defined categories",
+    "text": "Fine-tuning of a BERT model to assign open-ended survey answers to pre-defined categories\n\nSummary\nThe below shows results from one of my research projects in which I investigated various methods of supervised machine learning approaches to assign open-ended survey answers to pre-defined categories. For example, I was interested in detecting whether a certain survey answer is given in positive, negative or neutral sentiment.\n\n\n\nFigure 4: Sentiment classified with a fine-tuned BERT model for different survey items.\n\n\n\n\n\nFigure 5: Results from multivariate regression analysis."
+  },
+  {
+    "objectID": "contact.html#you-can-contact-me-here",
+    "href": "contact.html#you-can-contact-me-here",
+    "title": "Contact",
+    "section": "You can contact me here:",
+    "text": "You can contact me here:\n\nEmail: landesvatterc@gmail.com\nLinkedIn.\nGitHub."
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards",
+    "section": "",
+    "text": "I have twice received a Google Cloud Research Grant for delievering proof of concepts for social science projects.\n\n\nA Grant of 1,000 USD was awarded to me conduct research in the area of Computational Social Science. In particular, I was developing a novel approach to measure social trust by creating and testing more specific, situational self-report measures through a large-scale survey on social media. Utilizing Google Cloud Platform tools, I will process and analyze audio responses from thousands of participants using Automatic Speech Recognition and Natural Language APIs for text conversion and sentiment analysis. This project involves significant computational challenges, including handling and analyzing 24 GB of audio data and 266 hours of recordings. My work aims to improve trust measurement techniques and provides insights into trust dynamics beyond traditional survey methods. The final project made use of GCP tools, such as Speech-to-Text API, Compute engine, Natural Language API and BigQuery.\n\n\n\nTo follow up and deepen my previous work from the 2021 Research Grant, I was rewarded another 1,000 USD to continue working in this field. The focus of this work package was to leverage the Automatic Speech Recognition Capabilities of the respective GCP API. One of the main outcomes of this work was a unique and elaborated comparison of the performance of various Automatic Speech Recognition Algorithms.\n\nThe white paper can be found here: here"
+  },
+  {
+    "objectID": "awards.html#google-cloud-research-grant",
+    "href": "awards.html#google-cloud-research-grant",
+    "title": "Awards",
+    "section": "",
+    "text": "I have twice received a Google Cloud Research Grant for delievering proof of concepts for social science projects.\n\n\nA Grant of 1,000 USD was awarded to me conduct research in the area of Computational Social Science. In particular, I was developing a novel approach to measure social trust by creating and testing more specific, situational self-report measures through a large-scale survey on social media. Utilizing Google Cloud Platform tools, I will process and analyze audio responses from thousands of participants using Automatic Speech Recognition and Natural Language APIs for text conversion and sentiment analysis. This project involves significant computational challenges, including handling and analyzing 24 GB of audio data and 266 hours of recordings. My work aims to improve trust measurement techniques and provides insights into trust dynamics beyond traditional survey methods. The final project made use of GCP tools, such as Speech-to-Text API, Compute engine, Natural Language API and BigQuery.\n\n\n\nTo follow up and deepen my previous work from the 2021 Research Grant, I was rewarded another 1,000 USD to continue working in this field. The focus of this work package was to leverage the Automatic Speech Recognition Capabilities of the respective GCP API. One of the main outcomes of this work was a unique and elaborated comparison of the performance of various Automatic Speech Recognition Algorithms.\n\nThe white paper can be found here: here"
   }
 ]

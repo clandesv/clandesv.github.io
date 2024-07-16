@@ -8,7 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - portfolio.qmd
+      - work-samples.qmd
+      - projects.qmd
+      - publications.qmd
+      - awards.qmd
+      - contact.qmd
 
 format:
   html:

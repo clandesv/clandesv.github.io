@@ -132,25 +132,24 @@ ul.task-list li input[type="checkbox"] {
 
 <p>In my previous work and projects, I’ve applied statistical analysis methods, ranging from descriptive techniques to advanced methodologies. One of my focus in advanced methods is Natural Language Processing, where I use methods of machine learning and deep learning techniques to generate knowledge about textual data.</p>
 <p>In terms of machine learning, I mostly enjoy and appreciate supervised machine learning (<a href="https://www.youtube.com/watch?v=5p248yoa3oE&amp;list=LL&amp;index=2">Andrew Ng’s explantion on why these architectures are the most useful</a>), I have also worked in projects successfully utilizing unsupervised techniques (e.g., topic modeling) and large language models (e.g., zero-shot prompting with GPT-3.5).</p>
-<section id="entropy-analysis" class="level1">
-<h1>Entropy analysis</h1>
-<ul>
-<li>Summary: Questionnaires sometimes include open-ended questions (and if we had better access to methods for analyzing their open-ended responses, we would see them even more often). In this project, I investigated whether open-ended answers are useful in terms of their information content. This research required me to define and to operationalize information content (i.e., the amount of information given in an answer). Among various measures, I proposed the use of a measure from information theory, the <a href="https://en.wikipedia.org/wiki/Entropy">entropy</a> of a response. The below figure is my visualization for exemplary survey answers alongside their entropy score.</li>
-</ul>
-<div style="text-align: center;">
+<section id="entropy-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="entropy-analysis">Entropy analysis</h2>
+<section id="summary" class="level3">
+<h3 class="anchored" data-anchor-id="summary">Summary</h3>
+<p>Questionnaires sometimes include open-ended questions (and if we had better access to methods for analyzing their open-ended responses, we would see them even more often). In this project, I investigated whether open-ended answers are useful in terms of their information content. This research required me to define and to operationalize information content (i.e., the amount of information given in an answer). Among various measures, I proposed the use of a measure from information theory, the <a href="https://en.wikipedia.org/wiki/Entropy">entropy</a> of a response. The below figure is my visualization for exemplary survey answers alongside their entropy score.</p>
 <figure class="figure">
-<p><img src="project-figures/entropy-plot.png" width="750" height="350" class="figure-img"></p>
+<img src="project-figures/entropy-plot.png" width="750" height="350" class="figure-img">
 <figcaption>
 Figure 1: Example Survey Answers by Entropy.<br><em>Note.</em> The topic ofthis questionnaire item concerned environmental issues.
 </figcaption>
 </figure>
-</div>
 </section>
-<section id="topic-model-analysis" class="level1">
-<h1>Topic Model Analysis</h1>
-<ul>
-<li>Summary: Topic Modeling is a widely famous and often used method from unspervised Machine Learning aimin at exploring given topics in a corpus. Throughout my work, I have used topic models at various instances, most often for the usecase of exploring and learning about new, unstructured datasets. I follow the devlopment of topic models since many years, andused various of them (e.g., LDA, BERTopic), but just recently I started working on identifying topics with the help of a Large Language Model. In particular, I use GPT-3.5-turbo and prompt it too identify, label and describe topics in a given corpus. I don’t provide any examples of topics, hence this is also called zero-shot prompting.</li>
-</ul>
+</section>
+<section id="topic-model-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="topic-model-analysis">Topic Model Analysis</h2>
+<section id="summary-1" class="level3">
+<h3 class="anchored" data-anchor-id="summary-1">Summary</h3>
+<p>Topic Modeling is a widely famous and often used method from unspervised Machine Learning aimin at exploring given topics in a corpus. Throughout my work, I have used topic models at various instances, most often for the usecase of exploring and learning about new, unstructured datasets. I follow the devlopment of topic models since many years, andused various of them (e.g., LDA, BERTopic), but just recently I started working on identifying topics with the help of a Large Language Model. In particular, I use GPT-3.5-turbo and prompt it too identify, label and describe topics in a given corpus. I don’t provide any examples of topics, hence this is also called zero-shot prompting.</p>
 <p>The below dataset shows the main topics alongside des</p>
 
 <meta charset="UTF-8">
@@ -273,51 +272,46 @@ Acknowledgment of insufficient information to form a confident opinion on climat
 </table>
 
 </section>
-<section id="automatic-speech-recognition" class="level1">
-<h1>Automatic Speech Recognition</h1>
-<ul>
-<li>Summary: Spoken language provides analysts and researchers with very dense and rich amounts of information. For example speech, in contrast to written language, can deliver additional information through characteristics such as speed, intonation and volume, as well as other non-verbal elements, such as laughter, pauses and sighs. This led me to collect voice answers in various of my survey projects and for one of my <a href="">white papers</a> I compared different algorithms for automatic speech recognition. In this comparison I find that whisper, a speech-to-text algorithm provided by openAI performs best in terms of word error rates.</li>
-</ul>
-<div style="text-align: center;">
+</section>
+<section id="automatic-speech-recognition" class="level2">
+<h2 class="anchored" data-anchor-id="automatic-speech-recognition">Automatic Speech Recognition</h2>
+<section id="summary-2" class="level3">
+<h3 class="anchored" data-anchor-id="summary-2">Summary</h3>
+<p>Spoken language provides analysts and researchers with very dense and rich amounts of information. For example speech, in contrast to written language, can deliver additional information through characteristics such as speed, intonation and volume, as well as other non-verbal elements, such as laughter, pauses and sighs. This led me to collect voice answers in various of my survey projects and for one of my <a href="">white papers</a> I compared different algorithms for automatic speech recognition. In this comparison I find that whisper, a speech-to-text algorithm provided by openAI performs best in terms of word error rates.</p>
 <figure class="figure">
-<p><img src="project-figures/audio-data.png" width="650" height="450" class="figure-img"></p>
+<img src="project-figures/audio-data.png" width="650" height="450" class="figure-img">
 <figcaption>
 Figure 2: Waveform of an exemplary audio file and the unit of analyis.
 </figcaption>
 </figure>
-</div>
-<div style="text-align: center;">
 <figure class="figure">
-<p><img src="project-figures/word-error-rates.png" width="750" height="350" class="figure-img"></p>
+<img src="project-figures/word-error-rates.png" width="750" height="350" class="figure-img">
 <figcaption>
 Figure 3: Word Error Rates across different ASR algorithms.
 </figcaption>
 </figure>
-</div>
 </section>
-<section id="fine-tuning-of-a-bert-model-to-assign-open-ended-survey-answers-to-pre-defined-categories" class="level1">
-<h1>Fine-tuning of a BERT model to assign open-ended survey answers to pre-defined categories</h1>
-<ul>
-<li>Summary: The below shows results from one of my research projects in which I investigated various methods of supervised machine learning approaches to assign open-ended survey answers to pre-defined categories. For example, I was interested in detecting whether a certain survey answer is given in positive, negative or neutral sentiment.</li>
-</ul>
-<div style="text-align: center;">
+</section>
+<section id="fine-tuning-of-a-bert-model-to-assign-open-ended-survey-answers-to-pre-defined-categories" class="level2">
+<h2 class="anchored" data-anchor-id="fine-tuning-of-a-bert-model-to-assign-open-ended-survey-answers-to-pre-defined-categories">Fine-tuning of a BERT model to assign open-ended survey answers to pre-defined categories</h2>
+<section id="summary-3" class="level3">
+<h3 class="anchored" data-anchor-id="summary-3">Summary</h3>
+<p>The below shows results from one of my research projects in which I investigated various methods of supervised machine learning approaches to assign open-ended survey answers to pre-defined categories. For example, I was interested in detecting whether a certain survey answer is given in positive, negative or neutral sentiment.</p>
 <figure class="figure">
-<p><img src="project-figures/sentiment-distribution.png" width="700" height="300" class="figure-img"></p>
+<img src="project-figures/sentiment-distribution.png" width="700" height="300" class="figure-img">
 <figcaption>
 Figure 4: Sentiment classified with a fine-tuned BERT model for different survey items.
 </figcaption>
 </figure>
-</div>
-<div style="text-align: center;">
 <figure class="figure">
-<p><img src="project-figures/coefficient-plot-multi.png" width="700" height="700" class="figure-img"></p>
+<img src="project-figures/coefficient-plot-multi.png" width="700" height="700" class="figure-img">
 <figcaption>
 Figure 5: Results from multivariate regression analysis.
 </figcaption>
 </figure>
-</div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

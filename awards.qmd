@@ -1,0 +1,24 @@
+---
+title: "Awards"
+---
+
+## Google Cloud Research Grant
+
+I have twice received a <a href="https://edu.google.com/programs/credits/research/?modal_active=none" target="_blank">Google Cloud Research Grant</a> for delievering proof of concepts for social science projects.
+
+
+
+
+### 2021
+
+A Grant of 1,000 USD was awarded to me conduct research in the area of Computational Social Science. In particular, I was developing a novel approach to measure social trust by creating and testing more specific, situational self-report measures through a large-scale survey on social media. Utilizing Google Cloud Platform tools, I will process and analyze audio responses from thousands of participants using Automatic Speech Recognition and Natural Language APIs for text conversion and sentiment analysis. This project involves significant computational challenges, including handling and analyzing 24 GB of audio data and 266 hours of recordings. My work aims to improve trust measurement techniques and provides insights into trust dynamics beyond traditional survey methods.
+The final project made use of GCP tools, such as Speech-to-Text API, Compute engine, Natural Language API and BigQuery. 
+
+
+### 2022
+
+To follow up and deepen my previous work from the 2021 Research Grant, I was rewarded another 1,000 USD to continue working in this field. The focus of this work package was to leverage the Automatic Speech Recognition Capabilities of the respective GCP API. One of the main outcomes of this work was a unique and elaborated comparison of the performance of various Automatic Speech Recognition Algorithms.
+
+- The white paper can be found here: <a href="https://osf.io/preprints/socarxiv/vk6wj" target="_blank">here</a>
+  
+  
