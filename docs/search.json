@@ -179,7 +179,7 @@
     "href": "publications.html#spotlight-evaluation-of-asr-algorithms",
     "title": "Publications",
     "section": "Spotlight: Evaluation of ASR algorithms",
-    "text": "Spotlight: Evaluation of ASR algorithms\nOne of my most recent whitepapers describes a comparison of various automatic speech recognition methods. I conduct speech recognition with 4 of the most prominent algorithms (e.g., openAI whisper, NVIDIA NeMo, Google Cloud ASR) and compute word error rates to evaluate their performance.\nThe white paper can be found here. A full version is also under review at a hig-quality journal at the moment.\n\nTechnology\nFor typesetting my texts and creating visualizations, I use the following technologies:\nText and Typesetting: R Markdown, R Pagedown, Quarto, Google Doc, MS Word.\nData Viz: R: ggplot2, plotly, shiny, Python: matplotlib, seaborn, Other: Miro, Canvas, Figma."
+    "text": "Spotlight: Evaluation of ASR algorithms\nOne of my most recent whitepapers describes a comparison of various automatic speech recognition methods. I conduct speech recognition with 4 of the most prominent algorithms (e.g., openAI whisper, NVIDIA NeMo, Google Cloud ASR) and compute word error rates to evaluate their performance.\nThe white paper can be found here. A full version is also under review at a high-quality journal at the moment.\n\nTechnology\nFor typesetting my texts and creating visualizations, I use the following technologies:\nText and Typesetting: R Markdown, R Pagedown, Quarto, Google Doc, MS Word.\nData Viz: R: ggplot2, plotly, shiny, Python: matplotlib, seaborn, Other: Miro, Canvas, Figma."
   },
   {
     "objectID": "publications.html#introduction-to-r-markdown-pagedown-quarto-and-reproducible-manuscripts",
