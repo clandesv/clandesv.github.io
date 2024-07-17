@@ -6,7 +6,7 @@ title: "About"
 
 Welcome! 
 
-Please enjoy exploring my portfolio to learn more about my person and to see a selection of my previous work and projects.
+Please enjoy exploring my portfolio to learn more about my person and a selection of my previous work and projects.
 
 ## Experience
 
@@ -17,9 +17,9 @@ Please enjoy exploring my portfolio to learn more about my person and to see a s
 
 ## Education
 
-🏫🎓 I am trained in social sciences and in particular at the intersection of social science survey research, statistics and data science. To achieve this interdisciplinary combination of skills, I studied Social Sciences and Sociology at the University of Stuttgart and Mannheim. Subsequently, in April 2024 I completed my doctorate in Quantitative Sociology at the Department for Social Data Science and Methodology at the University of Mannheim.
+🏫🎓 I am trained in social sciences and in particular at the intersection of social science survey research, statistics and data science. To achieve this interdisciplinary combination of skills, I studied Social Sciences and Sociology at the University of Stuttgart and Mannheim. Additionally, in April 2024 I completed my doctorate in Quantitative Sociology at the Department for Social Data Science and Methodology at the University of Mannheim.
   
-🌰 For those interested, you can find the slides of my disputation talk <a href="https://clandesv.github.io/text_classifiers_survey_data/slides.html#/title-slide" target="_blank">here</a>.
+- The slides of my disputation talk can be found <a href="https://clandesv.github.io/text_classifiers_survey_data/slides.html#/title-slide" target="_blank">here</a>.
 
 
   

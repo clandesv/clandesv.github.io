@@ -15,9 +15,9 @@ The white paper can be found <a href="https://osf.io/preprints/socarxiv/vk6wj" t
 
 For typesetting my texts and creating visualizations, I use the following technologies: 
 
-*Text and Typesetting*: R Markdown, R Pagedown, Quarto, Google Doc, MS Word.
+**Text and Typesetting**: R Markdown, R Pagedown, Quarto, Google Doc, MS Word.
 
-*Data Viz*: R: ggplot2, plotly, shiny, Python: matplotlib, seaborn, Other: Miro, Canvas, Figma.
+**Data Viz**: R: ggplot2, plotly, shiny, Python: matplotlib, seaborn, Other: Miro, Canvas, Figma.
 
 ## Introduction to R Markdown, Pagedown, Quarto and Reproducible Manuscripts
 

@@ -13,11 +13,11 @@ The project is ongoing, and you can find the **latest version** <a href="https:/
 To create further resources out of our work, I collaborated with the <a href="
 https://www.mzes.uni-mannheim.de/socialsciencedatalab/" target="_blank">MZES Social Science Data Lab</a> to organize a **roundtable event** where together with co-editors and co-authors we reported on our experiences. You can watch the event on <a href="https://www.youtube.com/watch?v=Jd8NtdeQPCc&t=553s" target="_blank">YouTube</a>.
 
-### A Workshop on Computational Social Science
+### A 2-day Workshop on Computational Social Science
 
 <i>tba.</i>
 
-Together with colleagues from the Mannheim Centre for European Social Research (MZES), we secured extensive funding for organizing and conducting **a 2-day workshop on Computational Social Science**.
+<!-- Together with colleagues from the Mannheim Centre for European Social Research (MZES), we secured extensive funding for organizing and conducting **a 2-day workshop on Computational Social Science**. -->
 
 ### How do Social Scientists Visualize?
 
