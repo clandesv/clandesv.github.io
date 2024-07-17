@@ -19,6 +19,6 @@ The final project made use of GCP tools, such as Speech-to-Text API, Compute eng
 
 To follow up and deepen my previous work from the 2021 Research Grant, I was rewarded another 1,000 USD to continue working in this field. The focus of this work package was to leverage the Automatic Speech Recognition Capabilities of the respective GCP API. One of the main outcomes of this work was a unique and elaborated comparison of the performance of various Automatic Speech Recognition Algorithms.
 
-- The white paper can be found here: <a href="https://osf.io/preprints/socarxiv/vk6wj" target="_blank">here</a>
+- The white paper can be found <a href="https://osf.io/preprints/socarxiv/vk6wj" target="_blank">here</a>.
   
   

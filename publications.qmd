@@ -1,3 +1,30 @@
 ---
 title: "Publications"
 ---
+
+For a list of my publications, white papers and preprints please explore my <a href="https://scholar.google.de/citations?user=S-lC2DgAAAAJ&hl=en" target="_blank">Google Scholar Account</a>. 
+
+
+## Spotlight: Evaluation of ASR algorithms
+
+One of my most recent whitepapers describes a comparison of various automatic speech recognition methods. I conduct speech recognition with 4 of the most prominent algorithms (e.g., openAI whisper, NVIDIA NeMo, Google Cloud ASR) and compute word error rates to evaluate their performance.
+
+The white paper can be found <a href="https://osf.io/preprints/socarxiv/vk6wj" target="_blank">here</a>. A full version is also under review at a hig-quality journal at the moment.
+
+### Technology
+
+For typesetting my texts and creating visualizations, I use the following technologies: 
+
+Text and Typesetting: R Markdown, R Pagedown, Quarto, Google Doc, MS Word.
+
+Data Viz: R: ggplot2, plotly, shiny, Python: matplotlib, seaborn, Other: Miro, Canvas, Figma.
+
+## Introduction to R Markdown, Pagedown, Quarto and Reproducible Manuscripts
+
+I have a strong passion for working with words and language, and I enjoy outputting results in well-written formats, such as manuscripts. I believe that the presentation of information can significantly enhance its impact.
+This passion led me to collaborate with a colleague at the University of Mannheim on introducing typesetting techniques and document creation with R. Specifically, we have explored tools like Markdown, Pagedown, and Quarto to help students and other interested individuals discover various ways to format and present their results from statistical analyses, coursework, and other projects in engaging and professional formats.
+
+You can find our introductions here: <a href="https://osf.io/preprints/osf/q395s" target="_blank">R Markdown</a>, <a href="https://osf.io/preprints/osf/k8jhx" target="_blank">Pagedown</a>, <a href="https://osf.io/preprints/ur4xn" target="_blank">R Studio and Quarto</a>.
+
+In 2023 I was also invited by the Mannheim Open Science Office at the University of Mannheim to talk about the various features and benefits of reproducible manuscripts. You can explore the slides <a href="https://clandesv.github.io/reproducible-manuscripts-with-rmarkdown/slides.html#1" target="_blank">here</a>.
+
