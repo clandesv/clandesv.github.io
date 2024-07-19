@@ -40,5 +40,5 @@ Below is a list of the software I am using, along with information on how long I
 
 - R Markdown (6 years)
 - R Pagedown (4 years)
-- Quarto (2 years)
+- Quarto (2 years) -- **I created this Portfolio Website with Quarto**
 - Google Doc, MS Word (10+ years)
