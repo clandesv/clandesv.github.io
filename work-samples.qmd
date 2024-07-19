@@ -8,28 +8,28 @@ I am confident in using these methods due to my detailed theoretical knowledge a
 
  Below is a selection of methods I have used in the past:
 
-- **Descriptive Statistics**:
+- **Descriptive Statistics** (10 years):
   - Measures of central tendency (mean, median, mode)
   - Variance and standard deviation
   - Frequency distributions and data visualization
   
-- **Inferential Statistics**:
+- **Inferential Statistics** (10 years):
   - T-test
   - Analysis of Variance (ANOVA)
   - Bonferonni correction
 
-- **Predictive Methods and Longitudinal Data Analysis**:
+- **Predictive Methods and Longitudinal Data Analysis** (6 years):
   - Linear and multivariate regression
   - Multi-level regression
   - Time Series analysis and survival analysis
 
-- **Causal Inference Methods**:
+- **Causal Inference Methods** (6 years):
   - Instrumental Variables
   - Regression Discontinuity
   - Difference-in-Differences (Diff-in-Diff)
   - Propensity Score Matching
 
-- **Natural Language Processing and Machine Learning**:
+- **Natural Language Processing and Machine Learning** (4 years):
   - Entropy analysis
   - Word error rate analysis
   - Sentiment analysis

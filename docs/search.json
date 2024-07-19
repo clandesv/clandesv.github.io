@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "For the latest overview on which projects I am working on recently, please also refer to my GitHub Account.\n\nAPIs for Social Scientists: A collaborative review\nTogether with students and researchers from the University of Mannheim and beyond, we created a comprehensive introduction that explores how social scientists can leverage APIs to address significant research questions. This introduction covers various use cases such as data collection and data manipulation but also a chapter on Authentication and other Best Practices for API usage. Together with my Co-Editors, I was responsible for the project management and coordination of over 20 researchers working together on this project.\nThe project is ongoing, and you can find the latest version here.\nTo create further resources out of our work, I collaborated with the MZES Social Science Data Lab to organize a roundtable event where together with co-editors and co-authors we reported on our experiences. You can watch the event on YouTube.\n\n\nA 2-day Workshop on Computational Social Science\ntba.\n\n\n\nHow do Social Scientists Visualize?\ntba.\nTogether with a colleague from the University of Freiburg and LMU Munich, and our student research assistant at the Mannheim Centre for European Social Research, we are working on a project where we classify a large database of data visualizations created by social scientists. Our aim is to identify key characteristics and features of these visualizations to learn about the state of the art in social science data visualization and the level of complexity currently given in this field.\nAt the moment, we are developing a Shiny App with R which will be used to manually annotate all visualizations in the database.\nMore updates will follow for this project as we continue."
+    "text": "For the latest overview on which projects I am working on recently, please also refer to my GitHub Account.\n\nAPIs for Social Scientists: A collaborative review (2021-today)\nTogether with students and researchers from the University of Mannheim and beyond, we created a comprehensive introduction that explores how social scientists can leverage APIs to address significant research questions. This introduction covers various use cases such as data collection and data manipulation but also a chapter on Authentication and other Best Practices for API usage. Together with my Co-Editors, I was responsible for the project management and coordination of over 20 researchers working together on this project.\nThe project is ongoing, and you can find the latest version here.\nTo create further resources out of our work, I collaborated with the MZES Social Science Data Lab to organize a roundtable event where together with co-editors and co-authors we reported on our experiences. You can watch the event on YouTube.\n\n\nA 2-day Workshop on Computational Social Science (2024)\ntba.\n\n\n\nHow do Social Scientists Visualize? (2024)\ntba.\nTogether with a colleague from the University of Freiburg and LMU Munich, and our student research assistant at the Mannheim Centre for European Social Research, we are working on a project where we classify a large database of data visualizations created by social scientists. Our aim is to identify key characteristics and features of these visualizations to learn about the state of the art in social science data visualization and the level of complexity currently given in this field.\nAt the moment, we are developing a Shiny App with R which will be used to manually annotate all visualizations in the database.\nMore updates will follow for this project as we continue."
   },
   {
     "objectID": "contact.html",
@@ -102,7 +102,7 @@
     "href": "index.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\n🏫🎓 I am trained in social sciences and in particular at the intersection of social science survey research, statistics and data science. To achieve this interdisciplinary combination of skills, I studied Social Sciences and Sociology at the University of Stuttgart and Mannheim. Additionally, in April 2024 I completed my doctorate in Quantitative Sociology at the Department for Social Data Science and Methodology at the University of Mannheim.\n\nThe slides of my disputation talk can be found here."
+    "text": "Education\n🏫🎓 I am trained in social sciences and in particular at the intersection of social science survey research, statistics and data science. To achieve this interdisciplinary combination of skills, I studied Social Sciences (2014-2018) and Sociology (2018-2020) at the University of Stuttgart and Mannheim. Additionally, in April 2024 I completed my doctorate in Quantitative Sociology at the Department for Social Data Science and Methodology at the University of Mannheim.\n\nThe slides of my disputation talk can be found here."
   },
   {
     "objectID": "work-samples.html",
@@ -172,7 +172,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "For a list of my publications, white papers and preprints please explore my Google Scholar Account."
+    "text": "For a full list of my publications, white papers and preprints please explore my Google Scholar Account."
   },
   {
     "objectID": "publications.html#spotlight-evaluation-of-asr-algorithms",
@@ -187,5 +187,33 @@
     "title": "Publications",
     "section": "Introduction to R Markdown, Pagedown, Quarto and Reproducible Manuscripts",
     "text": "Introduction to R Markdown, Pagedown, Quarto and Reproducible Manuscripts\nI enjoy working with words and language, and I am enthusiastic about outputting results in well-written formats, such as manuscripts. I believe that the presentation of information can significantly enhance its impact. This passion led me to collaborate with a colleague at the University of Mannheim on introducing typesetting techniques and document creation with R. Specifically, we have explored tools like Markdown, Pagedown, and Quarto to help students and other interested individuals discover various ways to format and present their results from statistical analyses, coursework, and other projects in engaging and professional formats.\nYou can find our introductions here: R Markdown, Pagedown, R Studio and Quarto.\nIn 2023 I was also invited by the Mannheim Open Science Office at the University of Mannheim to talk about the various features and benefits of reproducible manuscripts. You can explore the slides here."
+  },
+  {
+    "objectID": "publications.html#spotlight",
+    "href": "publications.html#spotlight",
+    "title": "Publications",
+    "section": "Spotlight",
+    "text": "Spotlight\n\nEvaluation of ASR algorithms\nOne of my most recent whitepapers describes a comparison of various automatic speech recognition methods. I conduct speech recognition with 4 of the most prominent algorithms (e.g., openAI whisper, NVIDIA NeMo, Google Cloud ASR) and compute word error rates to evaluate their performance.\nThe white paper can be found here. A full version is also under review at a high-quality journal at the moment.\n\nTechnology\nFor typesetting my texts and creating visualizations, I use the following technologies:\nText and Typesetting: R Markdown, R Pagedown, Quarto, Google Doc, MS Word.\nData Viz: R: ggplot2, plotly, shiny, Python: matplotlib, seaborn, Other: Miro, Canvas, Figma."
+  },
+  {
+    "objectID": "publications.html#evaluation-of-asr-algorithms",
+    "href": "publications.html#evaluation-of-asr-algorithms",
+    "title": "Publications",
+    "section": "Evaluation of ASR algorithms",
+    "text": "Evaluation of ASR algorithms\nOne of my most recent whitepapers describes a comparison of various automatic speech recognition methods. I conduct speech recognition with 4 of the most prominent algorithms (e.g., openAI whisper, NVIDIA NeMo, Google Cloud ASR) and compute word error rates to evaluate their performance.\nThe white paper can be found here. A full version is also under review at a high-quality journal at the moment.\n\nTechnology\nFor typesetting my texts and creating visualizations, I use the following technologies:\nText and Typesetting: R Markdown, R Pagedown, Quarto, Google Doc, MS Word.\nData Viz: R: ggplot2, plotly, shiny, Python: matplotlib, seaborn, Other: Miro, Canvas, Figma."
+  },
+  {
+    "objectID": "technology.html",
+    "href": "technology.html",
+    "title": "Technology",
+    "section": "",
+    "text": "Below is a list of the software I am using, along with information on how long I have been using each.\n\nProgramming languages\n\nR (6 years)\nPython (3 years)\n\n\nMy preferred Code Editors:\n\nVS Code (3 years)\nR Studio for R-only projects (6 years)\n\n\n\n\nOther statistical scripting languages\n\nSPSS (10 years)\nSTATA (6 years)\n\n\n\nDatabase management systems\n\nSQL (&lt; 1 year, achieved by DataCamp certification)\n\n\n\nVersion Control Systems\n\nGit and GitHub (4 years)\n\n\n\nData Visualization and Business Intelligence\n\nTableau (&lt; 1 year) – I am currently working on a demontration of my Tableau skills using tableau public.\nR: ggplot2, plotly, shiny, etc. (6 years)\nPython: matplotlib, seaborn (2 years)\nMiro (2 years)\nCanvas (2 years)\nFigma (&lt; 1 year)\n\n\n\nText Typesetting\n\nR Markdown (6 years)\nR Pagedown (4 years)\nQuarto (2 years)\nGoogle Doc, MS Word (10+ years)"
+  },
+  {
+    "objectID": "publications.html#selectec-publications",
+    "href": "publications.html#selectec-publications",
+    "title": "Publications",
+    "section": "Selectec Publications",
+    "text": "Selectec Publications\n\nEvaluation of ASR algorithms\nOne of my most recent whitepapers describes a comparison of various automatic speech recognition methods. I conduct speech recognition with 4 of the most prominent algorithms (e.g., openAI whisper, NVIDIA NeMo, Google Cloud ASR) and compute word error rates to evaluate their performance.\nThe white paper can be found here. A full version is also under review at a high-quality journal at the moment."
   }
 ]

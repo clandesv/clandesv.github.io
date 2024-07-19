@@ -2,22 +2,16 @@
 title: "Publications"
 ---
 
-For a list of my publications, white papers and preprints please explore my <a href="https://scholar.google.de/citations?user=S-lC2DgAAAAJ&hl=en" target="_blank">Google Scholar Account</a>. 
+For a full list of my publications, white papers and preprints please explore my <a href="https://scholar.google.de/citations?user=S-lC2DgAAAAJ&hl=en" target="_blank">Google Scholar Account</a>. 
 
 
-## Spotlight: Evaluation of ASR algorithms
+## Selectec Publications
+
+### Evaluation of ASR algorithms
 
 One of my most recent whitepapers describes a comparison of various automatic speech recognition methods. I conduct speech recognition with 4 of the most prominent algorithms (e.g., openAI whisper, NVIDIA NeMo, Google Cloud ASR) and compute word error rates to evaluate their performance.
 
 The white paper can be found <a href="https://osf.io/preprints/socarxiv/vk6wj" target="_blank">here</a>. A full version is also under review at a high-quality journal at the moment.
-
-### Technology
-
-For typesetting my texts and creating visualizations, I use the following technologies: 
-
-**Text and Typesetting**: R Markdown, R Pagedown, Quarto, Google Doc, MS Word.
-
-**Data Viz**: R: ggplot2, plotly, shiny, Python: matplotlib, seaborn, Other: Miro, Canvas, Figma.
 
 ## Introduction to R Markdown, Pagedown, Quarto and Reproducible Manuscripts
 

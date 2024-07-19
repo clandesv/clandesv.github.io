@@ -11,6 +11,7 @@ website:
       - work-samples.qmd
       - projects.qmd
       - publications.qmd
+      - technology.qmd
       - awards.qmd
       - contact.qmd
 

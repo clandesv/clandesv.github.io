@@ -1,0 +1,44 @@
+---
+title: "Technology"
+---
+
+Below is a list of the software I am using, along with information on how long I have been using each.
+
+### Programming languages
+
+- R (6 years)
+- Python (3 years)
+
+#### My preferred Code Editors:
+
+- VS Code (3 years)
+- R Studio for R-only projects (6 years)
+
+### Other statistical scripting languages
+
+- SPSS (10 years)
+- STATA (6 years)
+
+### Database management systems
+
+- SQL (< 1 year, achieved by DataCamp certification)
+
+### Version Control Systems
+
+- Git and GitHub (4 years)
+
+### Data Visualization and Business Intelligence
+
+- Tableau (< 1 year) -- I am currently working on a demontration of my Tableau skills using <a href="https://public.tableau.com/app/discover" target="_blank">tableau public</a>. 
+- R: ggplot2, plotly, shiny, etc. (6 years)
+- Python: matplotlib, seaborn (2 years)
+- Miro (2 years)
+- Canvas (2 years)
+- Figma (< 1 year)
+
+### Text Typesetting
+
+- R Markdown (6 years)
+- R Pagedown (4 years)
+- Quarto (2 years)
+- Google Doc, MS Word (10+ years)
